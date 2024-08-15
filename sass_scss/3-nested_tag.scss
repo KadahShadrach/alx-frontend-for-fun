@@ -1,7 +1,8 @@
-/* using more nested declaration */
+/* using nested selectors */
 body {
-    color: #3D3D3D;
-    .red {
-        color: #FF0000;
+    margin: 0px;
+    padding: 0px;
+    p {
+        margin: 10px;
     }
 }
